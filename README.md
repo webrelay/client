@@ -123,7 +123,8 @@ docker run -e KEY=<your key> -e SECRET=<your secret> webhookrelay/webhookrelayd:
 
 ## See it in action
 
-<img src="https://webhookrelay.com/images/examples/relay-rec-simple.gif">
+* Demo your website without deploying: https://webhookrelay.com/v1/examples/demoing-your-website.html
+* Receiving webhooks on localhost: https://webhookrelay.com/v1/examples/receiving-webhooks-on-localhost.html
 
 ## Reporting issues
 
